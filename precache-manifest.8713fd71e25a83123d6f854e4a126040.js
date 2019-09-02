@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8af975036dbb2f6ce6cd4e5577b2af2f",
+    "revision": "af3bd4c60f188996f95b7a149526b337",
     "url": "/farmasep/index.html"
   },
   {
-    "revision": "d0ef162c47b6d585b036",
+    "revision": "c3457707070edbaf1d1c",
     "url": "/farmasep/static/css/main.a0082721.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/farmasep/static/js/2.8b4de124.chunk.js"
   },
   {
-    "revision": "d0ef162c47b6d585b036",
-    "url": "/farmasep/static/js/main.6a725392.chunk.js"
+    "revision": "c3457707070edbaf1d1c",
+    "url": "/farmasep/static/js/main.cd8b91fa.chunk.js"
   },
   {
     "revision": "43969b147b55ff2b26f2",
