@@ -1,0 +1,42 @@
+{
+    "errors": [],
+    "data": {
+        "drugs": {
+            "chewable tablet": {
+                "81mg": "https://www.goodrx.com/aspirin?grx_ref=api&strength=81mg&form=chewable+tablet&label=aspirin"
+            },
+            "tablet": {
+                "81mg": "https://www.goodrx.com/aspirin?grx_ref=api&strength=81mg&form=tablet&label=aspirin",
+                "325mg": "https://www.goodrx.com/aspirin?grx_ref=api&strength=325mg&form=tablet&label=aspirin"
+            }
+        },
+        "quantities": {
+            "chewable tablet": {
+                "81mg": [
+                    30,
+                    36,
+                    60,
+                    90,
+                    100
+                ]
+            },
+            "tablet": {
+                "81mg": [
+                    30,
+                    60,
+                    90,
+                    100,
+                    120
+                ],
+                "325mg": [
+                    14,
+                    30,
+                    60,
+                    90,
+                    100
+                ]
+            }
+        }
+    },
+    "success": true
+}

@@ -1,0 +1,25 @@
+.footer{
+    background-color: #f2f2f2;
+    padding:20px 0;
+    text-align: center;
+}
+
+.footer p{
+    font-size: 13px;
+    color: #5e5e5e;
+    text-align: left;
+    margin:5% 0;
+}
+
+.footer img{
+    margin:2% 0;
+    margin-bottom: 1%;
+}
+
+.footer span{
+    font-size: 13px;
+    color: #5e5e5e;
+    font-weight: bold;
+    display: block;
+    line-height: 1;
+}

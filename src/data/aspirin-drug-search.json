@@ -1,0 +1,15 @@
+{
+    "errors": [],
+    "data": {
+        "candidates": [
+            "aspirin",
+            "aspirin/dipyridamole er",
+            "aspirin/caffeine/dihydrocodeine",
+            "aspirin/omeprazole dr",
+            "soma compound",
+            "spiriva",
+            "isradipine"
+        ]
+    },
+    "success": true
+}

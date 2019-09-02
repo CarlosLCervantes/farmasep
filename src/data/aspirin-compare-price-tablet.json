@@ -1,0 +1,133 @@
+{
+    "data": {
+        "metric_quantity": 30.0,
+        "form": "tablet",
+        "short_url": "http://bit.ly/2wcVoQj",
+        "days_supply": 30,
+        "prices": [
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=4&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 1.18,
+                "pharmacy": "Kroger Pharmacy",
+                "coupon_key": "NQOIblNKrqvrtDlVkNCpDQVARgd2b05Z8v1tAXBYCtsgQxiO90K6HqeneDlYqN2z5fiWbRlj5vz1ynleLxgkK3OsfBzu-b3yrXEIXzDSIlLp5d9Gk2wSxZ7sigdonmm_5g==",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": null,
+                "pharmacy_type": "RETAIL",
+                "price": 1.74,
+                "pharmacy": "Target (CVS)",
+                "coupon_key": null,
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "cash"
+            },
+            {
+                "coupon_url": null,
+                "pharmacy_type": "RETAIL",
+                "price": 1.75,
+                "pharmacy": "CVS Pharmacy",
+                "coupon_key": null,
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "cash"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=1&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 2.47,
+                "pharmacy": "Walmart",
+                "coupon_key": "SbhWrSBExD1fLt95m1wVNqi5XQAd22oT8KmZgJtVTvn9ql4cHjWPpjg8DCkVpSSf9OawbShutzxkO5rXYxb1OTLwu8W_uYbY0ipk1mtoESSWEGaPgrqkFhKUfPViceDsBQ==",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=84027&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 3.18,
+                "pharmacy": "Medicine Shoppe",
+                "coupon_key": "FAlPyA4LiPKinVEk_GLWK2tc9cshCs714-CgMmKZ0lf8CbOUNcEz_pk9W5X8eU4SS6KBVlQssj1DIcLik8VYCBGbcsuMlXtOhaju89esn5PDQ1T7ejnh5cymEGvE5gF2YHleIeU=",
+                "savings": "85%",
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=23357&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 3.31,
+                "pharmacy": "Rite Aid",
+                "coupon_key": "-Slqa3dlZ6tzjmx3_t3I-Vkf9oAmLhR4-Pqi3X3_erkiqZvTB8hnh9UP-deEJRDwFOSJdeSa3EMVbyHw_qMYeEgEUKJAvsxi4_LVbjLwTWCC3K2M1_lh4wIbP77OiRYwJLe-blc=",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=31240&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 3.4,
+                "pharmacy": "Costco",
+                "coupon_key": "WALfO-qdNj3YBgKJLjvQB-8NAC4b1r10q92P4wUqkoHBgl-Jr_ooKcgrgv_XlABCMF0-dgtwzo2mfX-1TKDdk8zlxk0vhV_Gkly9JO_B5QmUS3uj9txBdbiwubP0RJ6iGEn0s_Y=",
+                "savings": "52%",
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=3&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 4.73,
+                "pharmacy": "Walgreens",
+                "coupon_key": "-Aguq7lI3Ay_vBAZeTxZ4tQgpnksQd2i2Rad1YHM1JZHRfyXbPzR56TqOmZhw4_-2pMwA4eoBE-Lm3Rt92Tn0NhAdZFkMzedHCPi8ZkvIc-xHnQiRVre1krrAs84Cv6yVQ==",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=85327&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 6.96,
+                "pharmacy": "Albertsons",
+                "coupon_key": "_af5IStsEdiroHYe32hN3nypqhUq2lknv9apU3qqS1-Y6yd7jBU7mnBF8DPxiz0xWGXOpAs0cabo3hFbL9I6__9CFCJcIm2xQFHGvyvS2lFHz0q76oYTQzmnbZAwbtQaAuV_jRSql1Twdo8iBg==",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            },
+            {
+                "coupon_url": "https://www.goodrx.com/coupon?pharmacy_id=83286&drug_id=1159&quantity=30.0",
+                "pharmacy_type": "RETAIL",
+                "price": 8.22,
+                "pharmacy": "Safeway",
+                "coupon_key": "AunfoFIQfjueXrmWyIq6bnJ8qJzhvE39v7kD-3JqLDQFfCJOj3pueAknGXd4zJw4egleSMhQ0zskfcoeK28t4Brzizag5HyibyefZw1WBEIYs0HPeJnaJt3jKp7qCqRDAr4MdQ==",
+                "savings": null,
+                "program_cost": null,
+                "ncpdp": null,
+                "type": "coupon"
+            }
+        ],
+        "mobile_url": "https://m.goodrx.com/?grx_ref=api#/drug/aspirin/tablet",
+        "manufacturer_type": "generic",
+        "url": "https://www.goodrx.com/aspirin?grx_ref=api",
+        "dosage": "81mg",
+        "equivalent_drugs": {
+            "generic": [
+                "aspirin"
+            ],
+            "brand": []
+        },
+        "short_mobile_url": "http://bit.ly/2wcVmIb",
+        "display": "aspirin",
+        "quantity": 30.0
+    }
+}
